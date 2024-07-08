@@ -16,7 +16,7 @@ function App() {
               </div>
               <div>
                 <h2 className="font-semibold">Email</h2>
-                <input type="text" placeholder="Enter Your Email" className="sm: py-2 px-1 border-2 border-gray-300 rounded-lg w-full" />
+                <input type="text" placeholder="Enter Your Email" className="sm:w-[80%] py-2 px-1 border-2 border-gray-300 rounded-lg w-full" />
               </div>
               <div>
                 <h2 className="font-semibold">Password</h2>
